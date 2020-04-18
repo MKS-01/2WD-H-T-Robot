@@ -1,4 +1,4 @@
-# 2WD-H-T-Robot
+# 2WD-H-T-Robot - B.E. Final Year Project
 Humidity and Temperature Arduino robot controlled using android app.  
 
 
